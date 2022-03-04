@@ -1,4 +1,4 @@
-# Ejercicio
+# Ejercicio 3
 
 ## Paso 1
 Primero he establecido coneción con la máquina ```ssh 192.168.0.148``` después he comprobado si se habia establecido correctamente ```ifconfig```.
